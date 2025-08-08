@@ -14,4 +14,4 @@ Converting CSV file into MySQL syntaxes for importing purposes.
     - Note: Make sure your terminal is at the same directory as the python script.
 5. When the system asked for path input, enter the directory path towards your CSVs folder.
     - Example: C\\Desktop\\Some DB CSV folder\\table_name.csv
-5. The script will create `output` folder with table name's.txt containing MySQL syntax.
+5. The script will create `output` folder with table name.txt containing MySQL syntax.
