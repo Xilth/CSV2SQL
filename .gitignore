@@ -1,5 +1,6 @@
 # Byte-compiled / optimized / DLL files
 output/*
+data_import_devel/*
 __pycache__/
 *.py[codz]
 *$py.class
